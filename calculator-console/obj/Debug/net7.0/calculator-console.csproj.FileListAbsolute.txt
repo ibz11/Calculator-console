@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\bin\Debug\net7.0\calculator-console.exe
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\bin\Debug\net7.0\calculator-console.deps.json
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\bin\Debug\net7.0\calculator-console.runtimeconfig.json
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\bin\Debug\net7.0\calculator-console.dll
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\bin\Debug\net7.0\calculator-console.pdb
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.AssemblyInfo.cs
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.dll
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\refint\calculator-console.dll
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.pdb
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\calculator-console.genruntimeconfig.cache
+C:\Users\User\Desktop\Backend\C# 2024\C# projects with github\calculator-console\obj\Debug\net7.0\ref\calculator-console.dll
